@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "9+gmwE42qimDpitFNNsDzBdn9qOORG1HFtin1jVpJ/k=",
+  "Source": "LMS_YARA",
+  "BasePath": "_content/LMS_YARA",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
